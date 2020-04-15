@@ -1,6 +1,7 @@
 ## Description
 作者介绍此内容的博客:
 https://blog.csdn.net/xiahouzuoxin/article/details/39582483
+xrz转载的 https://blog.csdn.net/my_friend_ship/article/details/105543800
 
 这是一个Kalman Filter的程序，内含状态量为标量和二维矢量的C程序实现，详见`kalman_filter.c`与`kalman_filter.h`。
 
